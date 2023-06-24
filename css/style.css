@@ -1,0 +1,55 @@
+.bf{
+
+	border: 5px solid blue;
+	width: 100px;
+	height:75px;
+	margin:10px;
+	padding:35px;
+	font: center;
+	border-width: 5px;
+	border-radius: 20px;
+	float:left;
+}
+.gf{
+
+	border: 5px solid red;
+	width:300px;
+	height: 200px;
+	margin: 10px;
+	padding:20px;
+	text-align: justify;
+	border-width: 5px;
+	border-radius: 20px;
+}
+h1{
+	color:red;
+}
+.beb{
+	border:3px solid tomato;
+    border-width:10px;
+    border-radius:10px;
+}
+.beb tr,
+.beb th,
+.beb td{
+	border: 1px solid seagreen;
+}
+img{
+
+	width:200px;
+	border: 5px dotted red;
+}
+.by{
+color:purple;
+background-color:yellowgreen;
+
+}
+.dd{
+
+	border:10px solid blue;
+	width: 10px;
+}
+body{
+	background-color:skyblue;
+}
+
